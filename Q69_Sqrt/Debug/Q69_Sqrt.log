@@ -1,0 +1,6 @@
+﻿  Q69_Sqrt.cpp
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Easy\Q69_Sqrt\Q69_Sqrt\Q69_Sqrt.cpp(8,32): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Easy\Q69_Sqrt\Q69_Sqrt\Q69_Sqrt.cpp(9,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Easy\Q69_Sqrt\Q69_Sqrt\Q69_Sqrt.cpp(9,49): warning C4018: '>': signed/unsigned mismatch
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Easy\Q69_Sqrt\Q69_Sqrt\Q69_Sqrt.cpp(20,24): warning C4307: '*': signed integral constant overflow
+  Q69_Sqrt.vcxproj -> C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Easy\Q69_Sqrt\Debug\Q69_Sqrt.exe
